@@ -53,8 +53,6 @@
     </div>
     @include('inc.footer') 
     <!-- Scripts -->
-
-         @yield("create")   
-    
+    @yield("create")   
 </body>
 </html>
